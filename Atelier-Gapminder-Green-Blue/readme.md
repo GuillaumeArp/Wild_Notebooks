@@ -1,6 +1,6 @@
 # Gapminder Workshop
 
-Recreation of the 2010 Gapminder scatter plot using Matplotlib only.
+Recreation of the 2010 Gapminder scatter plot using Matplotlib only in 3 hours.
 
 Original image:
 ![2010 Gapminder scatter plot](Images/GWM2010.png)
