@@ -1,12 +1,12 @@
-### Gapminder Workshop
+# Gapminder Workshop
 
 Recreation of the 2010 Gapminder scatter plot using Matplotlib only.
 
 Original image:
-![2010 Gapminder scatter plot](Images/GWM2010.png) 
+![2010 Gapminder scatter plot](Images/GWM2010.png)
 
 Recreated image:
-![Recreated 2010 Gapminder scatter plot](Images/gapminder_matplotlib.png) 
+![Recreated 2010 Gapminder scatter plot](Images/gapminder_matplotlib.png)
 
 Done as a group with :
 
